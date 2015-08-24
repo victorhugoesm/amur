@@ -1,0 +1,13 @@
+<resources>
+    <string name="title_activity_product_details">Product Details</string>
+
+    <!-- Strings related to login -->
+    <string name="product_details_name">Name</string>
+    <string name="product_details_price">Price</string>
+    <string name="product_details_description">Description</string>
+    <string name="action_product_details_save">Save</string>
+
+    <string name="error_product_details_field_required">This field is required</string>
+    <string name="error_product_details_save">Error on save</string>
+
+</resources>
